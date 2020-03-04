@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>第一个javaweb项目2222</title>
+    <title>第一个javaweb项目</title>
   </head>
   <body>
-  第一个javaweb项目222
+  第一个javaweb项目 git
   </body>
 </html>
